@@ -9,6 +9,7 @@ int main (){
     for (int j=0; j<26; j++)
 
     if(a[i]==s[j]){
-        
+        z=(3*j+9)%26;
+        cout<<s[z];
     }
 }
