@@ -8,4 +8,7 @@ int main (){
     for (int i = 0 < input.length(); i++)
     for (int j=0; j<26; j++)
 
+    if(a[i]==s[j]){
+        
+    }
 }
