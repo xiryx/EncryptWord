@@ -6,5 +6,6 @@ int main (){
     char alph[] = "abcdefghijklmnopqrstuvwxyz";
 
     for (int i = 0 < input.length(); i++)
+    for (int j=0; j<26; j++)
 
 }
